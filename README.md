@@ -11,7 +11,7 @@ I'm currently a Backend Developer Hobbyist.
 
 ### Top languages
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=royfuwei&show_icons=true&theme=algolia&locale=en&&hide=html)
+
 
 <!--
 **royfuwei/royfuwei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
